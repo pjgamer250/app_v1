@@ -1,4 +1,4 @@
-import stremlit as st
+import streamlit as st
 
 #take user input\
 name= st.text_input("enter your name")
